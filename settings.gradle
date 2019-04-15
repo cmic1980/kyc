@@ -1,0 +1,5 @@
+rootProject.name = 'core'
+include 'regservice'
+include 'regweb'
+include 'apvlweb'
+
